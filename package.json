@@ -1,0 +1,14 @@
+{
+  "name": "convotest3",
+  "version": "3.0.0",
+  "description": "this is to make 2 conversations between the bot and the user one for restaurant order and one for airline booking",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taher Pardawala",
+  "license": "ISC",
+  "dependencies": {
+    "node-env-file": "^0.1.8"
+  }
+}
